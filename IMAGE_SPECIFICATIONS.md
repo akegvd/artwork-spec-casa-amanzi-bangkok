@@ -20,8 +20,8 @@ This package contains all current website images and their specifications. Pleas
 
 | Preview | Specifications |
 |---------|---------------|
-| ![Light Logo](images/shared/logos/casa-amanzi-logo-light.png) | **File**: `casa-amanzi-logo-light.png`<br>**Dimensions**: 640×128 pixels (2x for retina)<br>**Aspect Ratio**: 5:1<br>**Format**: PNG<br>**Usage**: Navigation on dark backgrounds<br>**Display Size**: 320×64px |
-| ![Dark Logo](images/shared/logos/casa-amanzi-logo-dark.png) | **File**: `casa-amanzi-logo-dark.png`<br>**Dimensions**: 640×128 pixels (2x for retina)<br>**Aspect Ratio**: 5:1<br>**Format**: PNG<br>**Usage**: Navigation on light backgrounds<br>**Display Size**: 320×64px |
+| ![Light Logo](images/shared/logos/casa-amanzi-logo-light.png) | **File**: `casa-amanzi-logo-light.png`<br>**Dimensions**: 640×128 pixels (2x for retina)<br>**Aspect Ratio**: 5:1<br>**Format**: PNG<br>**Usage**: Navigation on dark backgrounds<br>**Display Size**: 320×64px<br>**See on site**: [Homepage](https://v0-luxury-spa-branding.vercel.app/) |
+| ![Dark Logo](images/shared/logos/casa-amanzi-logo-dark.png) | **File**: `casa-amanzi-logo-dark.png`<br>**Dimensions**: 640×128 pixels (2x for retina)<br>**Aspect Ratio**: 5:1<br>**Format**: PNG<br>**Usage**: Navigation on light backgrounds<br>**Display Size**: 320×64px<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
 
 **Notes**: Provide both light and dark versions for different page backgrounds.
 
@@ -39,6 +39,7 @@ This package contains all current website images and their specifications. Pleas
 **Aspect Ratio**: 16:9
 **Format**: GIF (animated)
 **Usage**: Full-screen homepage hero section
+**See on site**: [Homepage](https://v0-luxury-spa-branding.vercel.app/)
 **Notes**: Optimize animation - limit to 3-5 seconds loop, max 2-3MB file size. Should work with 30% black overlay.
 
 ---
@@ -55,6 +56,7 @@ This package contains all current website images and their specifications. Pleas
 **Aspect Ratio**: 16:9
 **Format**: JPG (quality: 85%)
 **Usage**: About page hero section (responsive background)
+**See on site**: [About Page](https://v0-luxury-spa-branding.vercel.app/about)
 **Notes**: Compress to ~200-300KB for optimal performance
 
 ---
@@ -68,6 +70,7 @@ This package contains all current website images and their specifications. Pleas
 **Aspect Ratio**: 20:13
 **Format**: PNG or JPG
 **Usage**: "Our Philosophy" section on about page
+**See on site**: [About Page - Philosophy Section](https://v0-luxury-spa-branding.vercel.app/about)
 **Notes**: Max container width ~800px. Can use JPG for smaller file size if no transparency needed
 
 ---
@@ -81,6 +84,7 @@ This package contains all current website images and their specifications. Pleas
 **Aspect Ratio**: 16:9
 **Format**: JPG or PNG
 **Usage**: Background for journey section on about page
+**See on site**: [About Page - Journey Section](https://v0-luxury-spa-branding.vercel.app/about)
 **Notes**: Compress to ~200-300KB. Use JPG if no transparency needed
 
 ---
@@ -98,6 +102,7 @@ This package contains all current website images and their specifications. Pleas
 **Format**: PNG
 **Usage**: Decorative element on contact/booking page
 **Display Size**: 320-384px responsive
+**See on site**: [Contact Page](https://v0-luxury-spa-branding.vercel.app/contact)
 **Notes**: Displayed at 30% opacity. Keep file size under 100KB
 
 ---
@@ -110,12 +115,12 @@ All service images are displayed at 128px wide on desktop, full width on mobile.
 
 | Preview | Details |
 |---------|---------|
-| ![Hair Services](images/services/hair-services.png) | **File**: `hair-services.png`<br>**Service**: Hair Styling<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
-| ![Nail Services](images/services/nail-services.png) | **File**: `nail-services.png`<br>**Service**: Nail Care<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
-| ![Massage Services](images/services/massage-services.png) | **File**: `massage-services.png`<br>**Service**: Spa Treatment/Massage<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
-| ![Spa Services](images/services/spa-services.png) | **File**: `spa-services.png`<br>**Service**: Facial Care<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
-| ![Herbal Compress](images/services/herbal-compress-services.png) | **File**: `herbal-compress-services.png`<br>**Service**: Body Treatment<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
-| ![Wellness Services](images/services/wellness-services.png) | **File**: `wellness-services.png`<br>**Service**: Wellness<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop |
+| ![Hair Services](images/services/hair-services.png) | **File**: `hair-services.png`<br>**Service**: Hair Styling<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
+| ![Nail Services](images/services/nail-services.png) | **File**: `nail-services.png`<br>**Service**: Nail Care<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
+| ![Massage Services](images/services/massage-services.png) | **File**: `massage-services.png`<br>**Service**: Spa Treatment/Massage<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
+| ![Spa Services](images/services/spa-services.png) | **File**: `spa-services.png`<br>**Service**: Facial Care<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
+| ![Herbal Compress](images/services/herbal-compress-services.png) | **File**: `herbal-compress-services.png`<br>**Service**: Body Treatment<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
+| ![Wellness Services](images/services/wellness-services.png) | **File**: `wellness-services.png`<br>**Service**: Wellness<br>**Dimensions**: 384×256 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Format**: PNG or JPG<br>**Display Size**: 128px wide on desktop<br>**See on site**: [Services Page](https://v0-luxury-spa-branding.vercel.app/services) |
 
 **Notes**: Each image should be under 50KB. Use JPG for photos, PNG for graphics.
 
@@ -134,6 +139,7 @@ All service images are displayed at 128px wide on desktop, full width on mobile.
 **Aspect Ratio**: 16:9
 **Format**: JPG or PNG
 **Usage**: Full-frame background on membership hero section
+**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership)
 **Notes**: Displayed at 30% opacity over black background. Compress to ~200-300KB. Use JPG if no transparency needed
 
 ---
@@ -144,11 +150,11 @@ All cards should resemble credit card proportions with 3:2 aspect ratio.
 
 | Card Preview | Tier Details |
 |--------------|--------------|
-| ![Green Card](images/membership/green-card.png) | **File**: `green-card.png`<br>**Tier**: Green (฿30,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide |
-| ![Gold Card](images/membership/gold-card.png) | **File**: `gold-card.png`<br>**Tier**: Gold (฿50,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide |
-| ![Platinum Card](images/membership/platinum-card.png) | **File**: `platinum-card.png`<br>**Tier**: Platinum (฿100,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide |
-| ![Centurion Card](images/membership/centurion-card.png) | **File**: `centurion-card.png`<br>**Tier**: Centurion (฿300,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide |
-| ![Elite Card](images/membership/elite-card.png) | **File**: `elite-card.png`<br>**Tier**: Elite (฿500,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide |
+| ![Green Card](images/membership/green-card.png) | **File**: `green-card.png`<br>**Tier**: Green (฿30,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide<br>**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership) |
+| ![Gold Card](images/membership/gold-card.png) | **File**: `gold-card.png`<br>**Tier**: Gold (฿50,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide<br>**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership) |
+| ![Platinum Card](images/membership/platinum-card.png) | **File**: `platinum-card.png`<br>**Tier**: Platinum (฿100,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide<br>**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership) |
+| ![Centurion Card](images/membership/centurion-card.png) | **File**: `centurion-card.png`<br>**Tier**: Centurion (฿300,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide<br>**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership) |
+| ![Elite Card](images/membership/elite-card.png) | **File**: `elite-card.png`<br>**Tier**: Elite (฿500,000)<br>**Dimensions**: 800×534 pixels (2x for retina)<br>**Aspect Ratio**: 3:2<br>**Max container**: ~320px wide<br>**See on site**: [Membership Page](https://v0-luxury-spa-branding.vercel.app/membership) |
 
 **Notes**: Cards have hover scale effect on website. Keep each card under 150KB for optimal loading.
 
@@ -168,6 +174,7 @@ All cards should resemble credit card proportions with 3:2 aspect ratio.
 **Format**: PNG or JPG
 **Display Size**: 300-450px responsive
 **Usage**: Centered background on promotions page
+**See on site**: [Promotions Page](https://v0-luxury-spa-branding.vercel.app/promotions)
 **Notes**: Displayed at 20% opacity. Keep under 150KB
 
 ---
